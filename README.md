@@ -28,7 +28,7 @@ Python · FastAPI · Gemini Live API · scikit-learn · SQLAlchemy / SQLite · A
 
 ## Screenshots
 ![Login screen](login.png)
-![Caregiver dashboard](dashboard.png)
+![Caregiver dashboard](Dashboard.png)
 ![Caregiver notification](notification.png)
 ## Publication
 
