@@ -21,7 +21,7 @@ Medication non-adherence is common among older adults, especially those with lim
 
 ## Architecture
 
-![VAILS architecture](architecture.png)
+![VAILS architecture](diagram1.png)
 
 ## Tech stack
 
