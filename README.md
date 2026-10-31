@@ -21,16 +21,7 @@ Medication non-adherence is common among older adults, especially those with lim
 
 ## Architecture
 
-```mermaid
-flowchart LR
-    U[Older adult] <-->|voice| V[Voice agent<br/>Gemini Live API + VAD]
-    V <--> B[FastAPI backend]
-    B <--> D[(SQLite / SQLAlchemy)]
-    S[APScheduler<br/>reminders] --> B
-    B --> M[scikit-learn<br/>risk models]
-    M --> E[Escalation<br/>Telegram / SMS]
-    B <--> C[Streamlit dashboard<br/>caregivers & doctors]
-```
+
 
 ## Tech stack
 
