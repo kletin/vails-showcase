@@ -1,4 +1,3 @@
-read me ?
 # VAILS — Voice Agent for Independent Living Support
 
 A voice-first AI assistant that helps older adults live independently. Users simply talk to it: no screens, menus or apps to navigate. It reminds them about medication, checks in on how they're doing, and alerts caregivers when something needs attention.
