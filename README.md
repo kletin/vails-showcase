@@ -28,9 +28,9 @@ Medication non-adherence is common among older adults, especially those with lim
 Python · FastAPI · Gemini Live API · scikit-learn · SQLAlchemy / SQLite · APScheduler · Streamlit · JWT / bcrypt authentication
 
 ## Screenshots
-
-<!-- Add dashboard screenshots here, e.g.: ![Caregiver dashboard](images/dashboard.png) -->
-
+![VAILS architecture](login.png)
+![VAILS architecture](dashboard.png)
+![VAILS architecture](notification.png)
 ## Publication
 
 Paper accepted at BCI 2026, Thessaloniki. Link will be added once the proceedings are published.
