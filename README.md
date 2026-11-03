@@ -30,9 +30,20 @@ Python · FastAPI · Gemini Live API · scikit-learn · SQLAlchemy / SQLite · A
 ![Login screen](login.png)
 ![Caregiver dashboard](Dashboard.png)
 ![Caregiver notification](notification.png)
+
 ## Publication
 
-Paper accepted at BCI 2026, Thessaloniki. Link will be added once the proceedings are published.
+**VAILS: A Voice Agent for Independent Living Support**
+Kalliopi Maria Tintikaki, Ioannis Refanidis
+Accepted as a full paper at the 12th Balkan Conference in Informatics (BCI 2026), Thessaloniki, Greece, October 11–14, 2026. To appear in Springer proceedings.
+
+📄 [Preprint (submitted manuscript, prior to peer review)](vails-preprint.pdf)
+
+<!--
+AFTER PUBLICATION: uncomment and fill in volume title and DOI.
+
+> This preprint has not undergone peer review (when applicable) or any post-submission improvements or corrections. The Version of Record of this contribution is published in [VOLUME TITLE], and is available online at https://doi.org/[DOI]
+-->
 
 ## Author
 
