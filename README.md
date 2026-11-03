@@ -2,7 +2,7 @@
 
 A voice-first AI assistant that helps older adults live independently. Users simply talk to it: no screens, menus or apps to navigate. It reminds them about medication, checks in on how they're doing, and alerts caregivers when something needs attention.
 
-> 📄 Bachelor's thesis, University of Macedonia. Paper accepted as a full paper at **BCI 2026** (12th Balkan Conference in Informatics), to appear in the Springer CSIS conference proceedings.
+> 📄 Bachelor's thesis, University of Macedonia. Paper accepted as a full paper at **BCI 2026** (12th Balkan Conference in Informatics), to appear in the Springer CCIS conference proceedings.
 >
 > 🔒 The source code is private. This repository is a project overview.
 
